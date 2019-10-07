@@ -10,6 +10,8 @@ public class MobileTest {
 	{
 		System.out.println("This is sample mobile test1.");
 		System.out.println("mobile test changed");
+		System.out.println("git1");
+		System.out.println("git2");
 	}
 	
 	@Test
@@ -17,5 +19,7 @@ public class MobileTest {
 	{
 		System.out.println("This is sample mobile test2.");
 		System.out.println("git changes applied");
+		System.out.println("git3");
+		System.out.println("git4");
 	}
 }
